@@ -51,7 +51,7 @@
     "lint-staged": "^15.2.7",
     "prisma": "^6.2.1",
     "tsc-watch": "^6.2.0",
-    "typescript": "^5.5.4"
+    "typescript": "^7.0.2"
   },
   "lint-staged": {
     "*.ts": "eslint"
